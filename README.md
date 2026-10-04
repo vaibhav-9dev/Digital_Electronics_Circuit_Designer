@@ -1,4 +1,4 @@
-#DIGITAL CIRCUIT DESIGNER & SIMULATOR
+DIGITAL CIRCUIT DESIGNER & SIMULATOR
 ======================================
 
 C++17 project.

@@ -1,0 +1,5 @@
+Field,Value
+CircuitType,ALU
+Inputs,0000000100
+Outputs,00010
+State,
